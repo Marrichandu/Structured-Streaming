@@ -1,0 +1,4 @@
+v1
+{"path":"file:///C:/Users/marri.chand/IdeaProjects/StreamingProject/output/part-00000-7226c340-f7f0-4787-841f-a8cf1f9f5d97-c000.csv","size":6917625,"isDir":false,"modificationTime":1663678903727,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///C:/Users/marri.chand/IdeaProjects/StreamingProject/output/part-00001-1a6aad52-85b2-4496-89f7-2a90273fa4f2-c000.csv","size":6917373,"isDir":false,"modificationTime":1663678909367,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///C:/Users/marri.chand/IdeaProjects/StreamingProject/output/part-00002-10b44e3f-4c14-428c-b9d3-45d53b6fb66a-c000.csv","size":3445002,"isDir":false,"modificationTime":1663678912156,"blockReplication":1,"blockSize":33554432,"action":"add"}
